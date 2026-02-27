@@ -86,8 +86,7 @@ All text-based models were trained on a balanced dataset with a 70/30 train-test
 ```
 FraudulentJobPostings/
 │
-├── DS_FinalProject_Group8.ipynb   # Main notebook (EDA + all models)
-├── fake_job_postings.csv          # Dataset (download from Kaggle)
+├── Predicting_Fraudulent_Jobs.ipynb   # Main notebook (EDA + all models)
 └── README.md
 ```
 
